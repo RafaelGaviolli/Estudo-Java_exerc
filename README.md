@@ -6,3 +6,4 @@ Lista
 
 1. OlaMundo - Dispensa descrições.
 2. Exemplo01 - Programa simples de calculo de média.
+3. Exemplo001 - Programa de calculo de média, com formatação e com interface para o usuário.
