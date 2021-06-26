@@ -8,3 +8,6 @@ Lista
 2. Exemplo01 - Programa simples de calculo de média.
 3. Exemplo001 - Programa de calculo de média, com formatação e com interface para o usuário.
 4. Exemplo02 - Programa de subtração de dois números.
+5. Exemplo03 - Programa de divisão de dois números.
+6. Exemplo04 - Programa de calculo de média 3 bimestres.
+7. Exemplo05 - Programa que calcula o valor de um produto com 10% de desconto.
