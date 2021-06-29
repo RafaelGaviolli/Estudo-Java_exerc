@@ -12,3 +12,5 @@ Lista
 6. Exemplo04 - Programa de calculo de média 3 bimestres.
 7. Exemplo05 - Programa que calcula o valor de um produto com 10% de desconto.
 8. Exemplo06 - Programa que calcula um salário com 5% de gratificação (add ao salário) e 7% de impostos (remove ao salário) e mostra seu valor final.
+9. Exemplo07 - Programa de calculo de média utilizando If e Else, onde diz ao aluno se ele foi aprovado(se media >=7) e else reprovado.
+10. Exemplo08 - Programa que verifica se Conceito é igual a A, B ou C, e utilizando if diz se o aluno foi aprovado ou reprovado, e também diz "conceito inválido" caso insira um conceito que não foi declarado.
