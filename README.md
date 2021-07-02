@@ -15,3 +15,4 @@ Lista
 9. Exemplo07 - Programa de calculo de média utilizando If e Else, onde diz ao aluno se ele foi aprovado(se media >=7) e else reprovado.
 10. Exemplo08 - Programa que verifica se Conceito é igual a A, B ou C, e utilizando if diz se o aluno foi aprovado ou reprovado, e também diz "conceito inválido" caso insira um conceito que não foi declarado.
 11. Exemplo09 - Programa que verifica dois numeros inteiros, e mostra a diferença do maior pro menor, e se for igual mostra 0.
+12. Exemplo10 - Programa que verifica um numero inteiro, que se está entre 1-9, diz que o valor é permitido, se não é não permitido.
